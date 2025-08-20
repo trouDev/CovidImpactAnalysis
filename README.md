@@ -10,3 +10,4 @@ Its worth noting that once the vaccination graph levels off, the covid cases sta
 France has the highest frequency of Covid-19 cases.<br />
 India has the lowest frequency of Covid-19 cases.<br />
 Its possible that the reason these densely populated countries like China and India are at such a low frequency is because not all COVID cases were reported.<br />
+We can see in this graph as well that right as the Omicron variant hit, all of the graphs shoot upwards.<br />
